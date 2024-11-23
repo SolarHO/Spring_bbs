@@ -1,0 +1,6 @@
+kr\co\inhatcspring\config\RootAppContext.class
+kr\co\inhatcspring\config\ServletAppContext.class
+kr\co\inhatcspring\config\SpringConfigClass.class
+kr\co\inhatcspring\beans\BoardPost.class
+kr\co\inhatcspring\mapper\BoardMapper.class
+kr\co\inhatcspring\controller\BoardController.class
